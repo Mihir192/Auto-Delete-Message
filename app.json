@@ -6,7 +6,7 @@
     "delete",
     "bot"
   ],
-  "repository": "https://github.com/im-vivektomar/Auto-Delete-Message-V2-",
+  "repository": "https://github.com/Mihir192/Auto-Delete-Message",
   "logo": "https://telegra.ph/file/c49da77fc0aa63b59593f.jpg",
   "env": {
     "BOT_TOKEN": {
