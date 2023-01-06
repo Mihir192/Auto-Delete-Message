@@ -8,3 +8,4 @@ services:
       BOT_TOKEN: $BOT_TOKEN
       SESSION: $SESSION
       TIME: $TIME  
+      GROUPS: $GROUPS
